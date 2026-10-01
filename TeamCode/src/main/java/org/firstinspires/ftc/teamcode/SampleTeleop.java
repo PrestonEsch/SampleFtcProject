@@ -12,7 +12,7 @@ public class SampleTeleop extends LinearOpMode {
         while (opModeIsActive()) {
            telemetry.addData("fdafdas'", 1423);
 
-           telemetry.addData("Git ", true); // tdakstjdsa
+           telemetry.addData("Git ", true);
 
            telemetry.update();
         }
